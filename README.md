@@ -19,4 +19,5 @@ react-native link
 ```sh
 re-natal use-component "react-native-vector-icons/MaterialIcons"
 re-natal use-component "react-native-vector-icons/FontAwesome"
+re-natal use-component "react-native-vector-icons/MaterialCommunityIcons"
 ```
